@@ -1,0 +1,13 @@
+.titleWelcome{
+    font-size: 72px;
+    font-weight: bold;
+}
+.subtitleWelcome{
+    font-size: 1.4em;
+}
+.wallpaper{ 
+    background-image: url('https://wallpapercave.com/wp/wp6899583.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
